@@ -4,3 +4,6 @@ behave
 requests
 appium-python-client
 transformers
+pandas
+openpyxl
+webdriver-manager
