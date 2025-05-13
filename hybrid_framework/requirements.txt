@@ -1,0 +1,6 @@
+selenium
+pytest
+behave
+requests
+appium-python-client
+transformers
